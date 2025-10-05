@@ -1,0 +1,29 @@
+# Arquivos de configuração e segredos
+.env
+strava_tokens.json
+
+# Arquivos de cache e compilados do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambientes virtuais (ex: venv, .venv)
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Arquivos específicos de IDEs
+.vscode/
+.idea/
+
+# Arquivos de log e exportação de dados
+*.log
+*.csv
+*.zip
+
+# Pastas de dependências (se você instalar localmente)
+/dist
+/build
